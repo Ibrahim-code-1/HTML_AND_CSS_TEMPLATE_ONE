@@ -1,7 +1,7 @@
 # HTML_AND_CSS_TEMPLATE_ONE
 [Demo](https://ibrahim-code-1.github.io/HTML_AND_CSS_TEMPLATE_ONE/)
 - ## About this template
-- This template is from graphberry 
+- This template is from graphberry :shipit:
   ### Technologies :
   - HTML5
   - CSS3
