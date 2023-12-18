@@ -391,6 +391,11 @@ a {
   letter-spacing: -2px;
   margin-bottom: 15px;
 }
+@media (max-width: 767px) {
+  .contact .info p {
+    font-size: 35px;
+  }
+}
 .contact .info a {
   margin-bottom: 20px;
   display: block;
@@ -402,7 +407,11 @@ a {
   left: 50%;
   transform: translate(-50%);
 }
-
+@media (max-width: 767px) {
+  .contact .info a {
+    font-size: 20px;
+  }
+}
 .contact .info .social {
   display: flex;
   justify-content: center;
